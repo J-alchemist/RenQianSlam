@@ -1,0 +1,11 @@
+Log file created at: 2022/05/18 15:51:16
+Running on machine: gj-virtual-machine
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0518 15:51:16.587442 45849 matching.cpp:93] load global map size:13202800
+I0518 15:51:17.778257 45849 matching.cpp:96] filtered global map size:121962
+I0518 15:51:17.791210 45849 matching.cpp:113] new local map:-150,150,-150,150,-150,150
+
+I0518 15:52:31.443751 45849 matching.cpp:113] new local map:-149.288,150.712,-149.458,150.542,-149.229,150.771
+
+I0518 15:53:17.844175 45849 matching.cpp:113] new local map:-49.2565,250.743,-96.3645,203.635,-148.837,151.163
+
